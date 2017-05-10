@@ -16,6 +16,7 @@
 		CE3B1EB11EC2FFA600B23318 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3B1EAF1EC2FFA600B23318 /* LaunchScreen.storyboard */; };
 		CE3B1EBA1EC2FFDD00B23318 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3B1EB91EC2FFDD00B23318 /* AViewController.m */; };
 		CE3B1EBD1EC3000400B23318 /* BViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3B1EBC1EC3000400B23318 /* BViewController.m */; };
+		CE3B1EC01EC3002E00B23318 /* CViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3B1EBF1EC3002E00B23318 /* CViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,8 @@
 		CE3B1EB91EC2FFDD00B23318 /* AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
 		CE3B1EBB1EC3000400B23318 /* BViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BViewController.h; sourceTree = "<group>"; };
 		CE3B1EBC1EC3000400B23318 /* BViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BViewController.m; sourceTree = "<group>"; };
+		CE3B1EBE1EC3002E00B23318 /* CViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CViewController.h; sourceTree = "<group>"; };
+		CE3B1EBF1EC3002E00B23318 /* CViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +81,8 @@
 				CE3B1E9E1EC2FFA600B23318 /* Supporting Files */,
 				CE3B1EB81EC2FFDD00B23318 /* AViewController.h */,
 				CE3B1EBB1EC3000400B23318 /* BViewController.h */,
+				CE3B1EBE1EC3002E00B23318 /* CViewController.h */,
+				CE3B1EBF1EC3002E00B23318 /* CViewController.m */,
 				CE3B1EBC1EC3000400B23318 /* BViewController.m */,
 				CE3B1EB91EC2FFDD00B23318 /* AViewController.m */,
 			);
@@ -169,6 +174,7 @@
 				CE3B1EA61EC2FFA600B23318 /* ViewController.m in Sources */,
 				CE3B1EA31EC2FFA600B23318 /* AppDelegate.m in Sources */,
 				CE3B1EA01EC2FFA600B23318 /* main.m in Sources */,
+				CE3B1EC01EC3002E00B23318 /* CViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
