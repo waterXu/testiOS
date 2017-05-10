@@ -14,6 +14,7 @@
 		CE3B1EAC1EC2FFA600B23318 /* testgit.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CE3B1EAA1EC2FFA600B23318 /* testgit.xcdatamodeld */; };
 		CE3B1EAE1EC2FFA600B23318 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE3B1EAD1EC2FFA600B23318 /* Assets.xcassets */; };
 		CE3B1EB11EC2FFA600B23318 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3B1EAF1EC2FFA600B23318 /* LaunchScreen.storyboard */; };
+		CE3B1EBA1EC2FFDD00B23318 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3B1EB91EC2FFDD00B23318 /* AViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		CE3B1EAD1EC2FFA600B23318 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE3B1EB01EC2FFA600B23318 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE3B1EB21EC2FFA600B23318 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE3B1EB81EC2FFDD00B23318 /* AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
+		CE3B1EB91EC2FFDD00B23318 /* AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +73,8 @@
 				CE3B1EB21EC2FFA600B23318 /* Info.plist */,
 				CE3B1EAA1EC2FFA600B23318 /* testgit.xcdatamodeld */,
 				CE3B1E9E1EC2FFA600B23318 /* Supporting Files */,
+				CE3B1EB81EC2FFDD00B23318 /* AViewController.h */,
+				CE3B1EB91EC2FFDD00B23318 /* AViewController.m */,
 			);
 			path = testgit;
 			sourceTree = "<group>";
@@ -154,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE3B1EAC1EC2FFA600B23318 /* testgit.xcdatamodeld in Sources */,
+				CE3B1EBA1EC2FFDD00B23318 /* AViewController.m in Sources */,
 				CE3B1EA61EC2FFA600B23318 /* ViewController.m in Sources */,
 				CE3B1EA31EC2FFA600B23318 /* AppDelegate.m in Sources */,
 				CE3B1EA01EC2FFA600B23318 /* main.m in Sources */,
